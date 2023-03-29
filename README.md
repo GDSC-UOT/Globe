@@ -25,7 +25,7 @@ The app empowers people to make a positive impact on the environment and combat 
 #### Daily tasks
 ![Globe3](https://user-images.githubusercontent.com/129291090/228660772-fdafa5d8-3db4-4f85-ba7f-7c71214f05e2.png)
 
-#### Splash & Ach
+#### Splash & Achievements
 ![Globe4](https://user-images.githubusercontent.com/129291090/228660864-33b61767-2c3b-431d-83f0-d5697800dae6.png)
 
 ## Our Team
