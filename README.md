@@ -30,7 +30,7 @@ The app empowers people to make a positive impact on the environment and combat 
 
 ## Our Team
 
--
--
--
--
+- Dhay Salih
+- Dima Sabah
+- Hasan Humam
+- Yaman Osama
