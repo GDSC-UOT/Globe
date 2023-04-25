@@ -1,3 +1,6 @@
-# globe
+# Globe
 
-A new Flutter project.
+### An app intrested in fighting climate change through rewards and huge community events.
+
+
+
